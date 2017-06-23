@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">济南小豆</string>
+
+    <string name="申请审批">申请审批</string>
+    <string name="农残检测">农残检测</string>
+    <string name="投入品监管">投入品监管</string>
+    <string name="基地管理">基地管理</string>
+    <string name="k_null"> 1</string>
+
+
+    <string name="app_exit">再按一次退出程序</string>
+    <!-- 加载dialog-->
+    <string name="str_tips">提示</string>
+    <string name="str_setting">设置</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_loading">加载中…</string>
+    <string name="str_error_network">网络连接不可用,是否进行设置?</string>
+    <string name="str_server_error">服务端或者网络异常，请稍后重试</string>
+    <string name="str_dialog_tips_waiting">请稍等…</string>
+
+</resources>
